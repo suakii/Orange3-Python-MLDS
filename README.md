@@ -118,3 +118,7 @@
 03 썩은 사과 분류 모델은 어떻게 만들까?  
 04 오렌지를 이용한 썩은 사과 분류하기  
 05 파이썬을 이용해 썩은 사과 분류 예측하기  
+
+## 실습 환경
+1. [오렌지3](https://orangedatamining.com/download/)
+2. [구글 코랩](https://colab.research.google.com/)
