@@ -155,4 +155,5 @@
 
 ## 실습 환경
 1. [오렌지3](https://orangedatamining.com/download/)
+   1. 오렌지 소스파일(*.ows)은 오렌지3 프로그램을 설치 후 실행합니다.
 2. [구글 코랩](https://colab.research.google.com/)
