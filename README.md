@@ -119,6 +119,40 @@
 04 오렌지를 이용한 썩은 사과 분류하기  
 05 파이썬을 이용해 썩은 사과 분류 예측하기  
 
+## 파일 구성
+|폴더 이름 |설명                         |
+|:--        |:--                          |
+|Ch_02       |데이터 분석을 위한 파이썬 주요 라이브러리, 머신러닝 기반 문제 해결 과정 설명 노트북|
+|Ch_03       |호텔 고객의 만족도를 높이기 위해 어떤 서비스에 중점을 두어야 할까?, 주피터 노트북 파일+오렌지3파일, 데이터셋|
+|Ch_04       |펭귄 종을 분류할 수 있는 방법은 무엇일까?, 주피터 노트북 파일+오렌지3파일, 데이터셋|
+|Ch_05       |2040년 자장면 가격을 예측할 수 있을까?, 주피터 노트북 파일+오렌지3파일, 데이터셋|
+|Ch_06       |건강 상태를 알면 당뇨병을 예측할 수 있을까?, 주피터 노트북 파일+오렌지3파일, 데이터셋|
+|Ch_07       |전 세계의 지진 데이터를 군집화할 수 있을까?, 주피터 노트북 파일+오렌지3파일, 데이터셋|
+|Ch_08       |인공지능으로 이미지의 용량을 줄이는 방안은 무엇일까?,주피터 노트북 파일+오렌지3파일|
+|Ch_09       |식료품 구매에 어떤 연관성이 있을까?, 주피터 노트북 파일+오렌지3파일, 데이터셋|
+|Ch_10       |음파 탐지기로 기뢰와 바위를 구분할 수 있을까?, 주피터 노트북 파일+오렌지3파일, 데이터셋|
+|Ch_11       |인공지능으로 사과 농가를 어떻게 도울까?, 주피터 노트북 파일+오렌지3파일, 데이터셋|
+
+## 주피터 노트북
+이 책의 코드는 주피터 노트북으로도 제공됩니다. 다음 표의 링크를 클릭하면 구글 코랩에서 노트북을 실행할 수 있습니다.
+
+| 장 | Colab|
+| :--- | :--- |
+| 2장 데이터 분석을 위한 파이썬 주요 라이브러리| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suakii/Orange3-Python-MLDS/blob/main/Ch_02/2_%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%EC%9D%84%20%EC%9C%84%ED%95%9C%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%A3%BC%EC%9A%94%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.ipynb) |
+| 2장 머신러닝 기반 문제 해결 과정| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suakii/Orange3-Python-MLDS/blob/main/Ch_02/2_머신러닝%20기반%20문제%20해결%20과정.ipynb) |
+| 3장 호텔 고객의 만족도를 높이기 위해 어떤 서비스에 중점을 두어야 할까?| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suakii/Orange3-Python-MLDS/blob/main/Ch_033_호텔%20고객의%20만족도를%20높이기%20위해%20어떤%20서비스에%20중점을%20두어야%20할까.ipynb) |
+| 4장 펭귄 종을 분류할 수 있는 방법은 무엇일까?| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suakii/Orange3-Python-MLDS/blob/main/Ch_04/4_펭귄%20종을%20분류할%20수%20있는%20방법은%20무엇일까.ipynb) |
+| 5장 2040년 자장면 가격을 예측할 수 있을까?| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suakii/Orange3-Python-MLDS/blob/main/Ch_05/5_2040년자장면가격예측(파이선).ipynb) |
+| 6장 건강 상태를 알면 당뇨병을 예측할 수 있을까?| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suakii/Orange3-Python-MLDS/blob/main/Ch_06/6_당뇨병_예측하기.ipynb) |
+| 7장 전 세계의 지진 데이터를 군집화할 수 있을까?| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suakii/Orange3-Python-MLDS/blob/main/Ch_07/7_k_means_earthquake.ipynb) |
+| 8장 인공지능으로 이미지의 용량을 줄이는 방안은 무엇일까?| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suakii/Orange3-Python-MLDS/blob/main/Ch_08/8_kmeans_image.ipynb) |
+| 9장 식료품 구매에 어떤 연관성이 있을까?| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suakii/Orange3-Python-MLDS/blob/main/Ch_09/9_식료품_구매에_어떤_연관성이_있을까.ipynb) |
+| 10장 음파 탐지기로 기뢰와 바위를 구분할 수 있을까?| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suakii/Orange3-Python-MLDS/blob/main/Ch_10/10_Sonar.ipynb) |
+| 11장 인공지능으로 사과 농가를 어떻게 도울까?| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suakii/Orange3-Python-MLDS/blob/main/Ch_11/11_인공지능으로%20사과농가를%20어떻게%20도울까_.ipynb) |
+
+
+
+
 ## 실습 환경
 1. [오렌지3](https://orangedatamining.com/download/)
 2. [구글 코랩](https://colab.research.google.com/)
