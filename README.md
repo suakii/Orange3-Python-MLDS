@@ -11,7 +11,7 @@
 미리보기: [생능출판사](https://www.booksr.co.kr/wp-content/uploads/2024/06/%EC%98%A4%EB%A0%8C%EC%A7%803-with-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0.pdf)
 
 ## 정오표 (Errata)
-이 책의 정오표를 [생능출판사]([pdf_link_here](https://www.booksr.co.kr/wp-admin/admin-post.php?action=cosmosfarm_saengnueng_download_file&product_id=20894&file_id=22360&security=3d0292be78))에서 확인할 수 있습니다.
+이 책의 정오표를 [생능출판사](https://www.booksr.co.kr/wp-admin/admin-post.php?action=cosmosfarm_saengnueng_download_file&product_id=20894&file_id=22360&security=3d0292be78)에서 확인할 수 있습니다.
 
 ## 책소개
 9가지의 다양한 프로젝트 실습을 통해
