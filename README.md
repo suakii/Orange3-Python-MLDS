@@ -1,7 +1,7 @@
 > 이곳은 "생능 출판사"의 "머신러닝으로 쉽게 따라하는 데이터 과학 프로젝트-오렌지3 with 파이썬(2024출판)"의 저장소입니다.
 
 # 머신러닝으로 쉽게 따라 하는 데이터 과학 프로젝트
-## 오렌지3 with 파이썬
+## 오렌지3 with 파이썬 
 
 <img src="https://raw.githubusercontent.com/suakii/Orange3-Python-MLDS/main/book_cover.jpg" alt="책 표지" width="50%">
 
