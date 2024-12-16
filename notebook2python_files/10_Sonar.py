@@ -95,9 +95,11 @@ print("테스트 데이터 : ", X_test.shape, y_test.shape)
 
 from sklearn.preprocessing import LabelEncoder
 
-y_train_encode = LabelEncoder().fit_transform(y_train)
-y_test_encode = LabelEncoder().fit_transform(y_test)
+label_encoder = LabelEncoder()
+y_train_encode = label_encoder.fit_transform(y_train)
+y_test_encode = label_encoder.transform(y_test)
 
+print(y_train_encode)
 y_train_encode
 
 """## **[3] 모델 생성하기**
