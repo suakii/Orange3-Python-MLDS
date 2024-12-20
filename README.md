@@ -154,9 +154,15 @@
 | 11장 인공지능으로 사과 농가를 어떻게 도울까?| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suakii/Orange3-Python-MLDS/blob/main/Ch_11/11_인공지능으로%20사과농가를%20어떻게%20도울까_.ipynb) |
 
 
+## 이 책의 개발 환경과 라이브러리 버전 안내
 
-
-## 실습 환경
-1. [오렌지3](https://orangedatamining.com/download/)
-   1. 오렌지 소스파일(*.ows)은 오렌지3 프로그램을 설치 후 실행합니다.
-2. [구글 코랩](https://colab.research.google.com/)
+본서에서 제공하는 예제와 실습은 아래의 환경과 라이브러리 버전을 기준으로 작성되었습니다.  
+독자 여러분이 동일한 결과를 얻기 위해서는, 가능한 한 이와 유사한 환경을 준비하시기를 권장드립니다.
+- **Python 버전**: 3.10.12  
+- **Orange3 버전**: 3.8  
+- **TensorFlow 버전**: 2.17.1  
+  (Keras 버전: 3.5.0 포함)
+- **NumPy 버전**: 1.26.4  
+- **Pandas 버전**: 2.2.2  
+- **Matplotlib 버전**: 3.8.0  
+- **scikit-learn 버전**: 1.6.0  
