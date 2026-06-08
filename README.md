@@ -1,11 +1,9 @@
-> 이곳은 "생능 출판사"의 "머신러닝으로 쉽게 따라하는 데이터 과학 프로젝트-오렌지3 with 파이썬(2026 개정판)"의 저장소입니다.
-> 
-> 초판(2024)은 [여기](https://github.com/suakii/Orange3-Python-MLDS/tree/v1.0)에서 확인하세요.
+> 이곳은 "생능 출판사"의 "머신러닝으로 쉽게 따라하는 데이터 과학 프로젝트-오렌지3 with 파이썬(2024출판)"의 저장소입니다.
 
 # 머신러닝으로 쉽게 따라 하는 데이터 과학 프로젝트
 ## 오렌지3 with 파이썬 
 
-<img src="https://raw.githubusercontent.com/suakii/Orange3-Python-MLDS/main/book_cover.png" alt="책 표지" width="50%">
+<img src="https://raw.githubusercontent.com/suakii/Orange3-Python-MLDS/main/book_cover.jpg" alt="책 표지" width="50%">
 
 판매처: [교보문고](https://product.kyobobook.co.kr/detail/S000213682155)
 , [예스24](https://www.yes24.com/Product/Goods/128264511), [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=342185006) 등
