@@ -3,7 +3,7 @@
 > 초판(2024)은 [여기](https://github.com/suakii/Orange3-Python-MLDS/tree/v1.0)에서 확인하세요.
 
 # 머신러닝으로 쉽게 따라 하는 데이터 과학 프로젝트
-## 오렌지3 with 파이썬 
+## 오렌지3 with 파이썬 [개정판]
 
 <img src="https://raw.githubusercontent.com/suakii/Orange3-Python-MLDS/main/book_cover.png" alt="책 표지" width="50%">
 
